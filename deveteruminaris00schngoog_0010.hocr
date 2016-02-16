@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deveteruminaris00schngoog_0010.png"; bbox 0 0 3258 5134; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 196 1825 1510 2012">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 75 1797 1510 2052">
+     <span class='ocr_line' id='line_1_1' title="bbox 196 1825 1510 2012; baseline -0.005 -19.59"><span class='ocrx_word' id='word_1_1' title='bbox 196 1825 667 1996; x_wconf 64' lang='lat' dir='ltr'>musmo</span> <span class='ocrx_word' id='word_1_2' title='bbox 729 1869 1291 2012; x_wconf 71' lang='lat' dir='ltr'><strong>Romulo,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1499 1949 1510 1986; x_wconf 78' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 412 2221 1076 2304">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 412 2221 1076 2304">
+     <span class='ocr_line' id='line_1_2' title="bbox 412 2221 1076 2304; baseline 0.003 -12"><span class='ocrx_word' id='word_1_4' title='bbox 412 2227 790 2294; x_wconf 71' lang='lat' dir='ltr'><strong>PRAEcEP&#39;rom</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 832 2221 1076 2304; x_wconf 67' lang='lat' dir='ltr'><strong>nmmo,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 599 2515 1036 2660">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 599 2515 1036 2660">
+     <span class='ocr_line' id='line_1_3' title="bbox 599 2515 1036 2660; baseline 0.011 -77"><span class='ocrx_word' id='word_1_6' title='bbox 599 2515 897 2588; x_wconf 80' lang='grc' dir='ltr'><em>θΡΕΠΤΗΡΙΑ.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1027 2615 1036 2660; x_wconf 30' lang='grc' dir='ltr'>Ἰ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1634 5134">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1634 5134">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1634 5134; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1634 5134; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
